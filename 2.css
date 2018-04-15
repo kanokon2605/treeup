@@ -1,12 +1,3 @@
-/*!
-* Based on Bootstrap v4.0.0 (https://getbootstrap.com) 
-*/
-/*!
- * Bootstrap v4.0.0 (https://getbootstrap.com)
- * Copyright 2011-2018 The Bootstrap Authors
- * Copyright 2011-2018 Twitter, Inc.
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
- */
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
@@ -69,12 +60,12 @@ body {
 [tabindex="-1"]:focus {
   outline: 0 !important; }
 
-hr,h1 {
+hr {
   box-sizing: content-box;
   height: 0;
   overflow: visible; }
 
-h2, h3, h4, h5, h6 {
+h1,h2, h3, h4, h5, h6 {
   margin-top: 0;
   margin-bottom: 0.75rem; }
 
